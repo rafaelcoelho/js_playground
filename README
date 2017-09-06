@@ -1,1 +1,3 @@
+/* Execute the following command to run */
+
 babel reduce.js | node
