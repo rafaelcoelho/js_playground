@@ -1,0 +1,5 @@
+rafael	waffle iron	80	2
+rafael	knife iron	100	10
+rafael	spoon silver	34	21
+john	fork silver	20	21
+john	knife silver	11	88
